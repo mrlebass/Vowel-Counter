@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Vowel%20Counter&textBg=true"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Endava%20Code%20Challenge&textBg=true"/>
 <div align="left" />
    
 🛠️ **Tools:**
